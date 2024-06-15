@@ -1,3 +1,8 @@
+# Author
+## Name : Ameer Salam
+IEEE Membership ID: 99220899
+Email: ameersuz3@gmail.com
+
 # Housie Housie Number Display
 
 A Python-based number display system for the Housie Housie game, developed to enhance the visibility of the game during events by projecting the numbers on a screen.
